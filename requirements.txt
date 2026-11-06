@@ -1,0 +1,14 @@
+gradio[oauth]
+requests
+pandas
+openpyxl
+datasets
+huggingface_hub
+beautifulsoup4
+lxml
+html5lib
+ddgs
+youtube-transcript-api
+yt-dlp
+pillow
+python-chess
